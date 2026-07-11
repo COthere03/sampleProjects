@@ -1,0 +1,2 @@
+# Sample Python Projects
+This repository is a collection of Python projects created to enhance my programming knowledge and continuously improve my development skills. It serves as a personal learning space where I explore Python fundamentals, experiment with new concepts, solve coding challenges, and build practical applications. Through consistent practice and hands-on projects, I aim to strengthen my problem-solving abilities, write clean and efficient code, and gain a deeper understanding of Python and software development.
